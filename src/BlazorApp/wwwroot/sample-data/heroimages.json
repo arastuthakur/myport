@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/server-wall.jpg",
-    "alt": "woman holding laptop standing by server room with glass wall"
+    "src": "images/1633427712431.jpg",
+    "alt": "Personal Image"
   },
   {
     "name": "about",
-    "src": "images/mosaic.svg",
-    "alt": "purple and blue abstract background"
+    "src": "images/watercolor-mosaic-background_23-2148299906.avif",
+    "alt": "Background"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/data-technology-blue-background-with-hacker-remixed-media_53876-108534.avif",
+    "alt": "Computer Background"
   }
 ]
